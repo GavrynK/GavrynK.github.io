@@ -1,4 +1,4 @@
-## Im trying to change the title
+## This is GavrynK's Page
 
 You can use the [editor on GitHub](https://github.com/GavrynK/GavrynK.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
