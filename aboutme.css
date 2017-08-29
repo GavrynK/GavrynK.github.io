@@ -1,0 +1,33 @@
+body {
+  background-color: DodgerBlue;
+  
+}
+h1 {
+    text-align: center;
+    font-size:40px;
+    color: blue;
+    
+}
+p {
+    text-align: center;
+    font-size:30px;
+    font-family: 'Baloo Bhaijaan', cursive;
+    color:rgb(255,0,0);
+    line-height: 1.1;
+}
+li{
+    font-size:20px;
+    font-family: 'Anton', sans-serif;
+    color: yellow;
+    line-height: 1;
+        
+    
+}
+h2 {
+font-family: 'Indie Flower', cursive;
+    font-size:25px;
+    color: #00FFFF;
+    line-height: 1;
+    text-decoration: underline;
+    text-decoration: bold;
+}
